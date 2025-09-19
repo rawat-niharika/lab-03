@@ -7,6 +7,6 @@ List any resources used here, or simply put `N/A` if not applicable.
 ## Verbal Collaboration
 
 | Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
+|------------|-----------|
+| `Niharika`   | `niharik2` |
 | `<Add more>` | `<CCID>`  |
